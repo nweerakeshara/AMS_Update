@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="384175d2-d53c-402b-aa6a-98087e9c2848" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mern/api/DB.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mern/api/business.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mern/api/business.route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mern/api/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mern/src/components/TableRow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mern/src/components/att.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mern/src/components/create.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mern/src/components/edit.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mern/src/components/freport.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mern/src/components/index.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mern/src/components/leave.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mern/src/components/ot.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mern/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/mern/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mern/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mern/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mern/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/mern/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mern/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/mern/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mern" />
+  </component>
+  <component name="ProjectId" id="1bGPEUIrAEbOCFsoytXyj962BCu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FireAlarm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="384175d2-d53c-402b-aa6a-98087e9c2848" name="Default Changelist" comment="" />
+      <created>1588255346129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588255346129</updated>
+      <workItem from="1588255348457" duration="7919000" />
+      <workItem from="1588306072702" duration="7773000" />
+      <workItem from="1588686849778" duration="34000" />
+      <workItem from="1588763072877" duration="688000" />
+      <workItem from="1588834718835" duration="4182000" />
+      <workItem from="1588841323984" duration="13276000" />
+      <workItem from="1589021301168" duration="130000" />
+      <workItem from="1589021808260" duration="1580000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="781" y="251" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588849152199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="781" y="251" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1588849152199" />
+  </component>
+</project>
