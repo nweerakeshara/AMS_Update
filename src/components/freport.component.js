@@ -5,6 +5,10 @@ class FreportComponent extends Component {
         return (
             <div>
                 <h1>FieldReports Here</h1>
+                <div className="text-center">
+                <button className="btn btn-success"><b>Upload Report</b></button>
+                </div>
+
             </div>
         );
     }

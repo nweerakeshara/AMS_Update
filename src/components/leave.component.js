@@ -5,6 +5,9 @@ class LeaveComponent extends Component {
         return (
             <div>
                 <h1>Leaves Here</h1>
+                <div className="text-center">
+                <button className="btn btn-warning"><b>Print Report</b></button>
+                </div>
             </div>
         );
     }

@@ -5,6 +5,7 @@ export  default  class  Edit  extends  Component{
         return (
             <div>
                 <p>Hi from Edit</p>
+
             </div>
         );
     }
